@@ -45,3 +45,5 @@ To improve readability of the Excel analysis model:
 - Excel (data cleaning, normalization, scoring model)
 - Power BI (dashboard visualization)
 - Data Analytics & Customer Segmentation
+
+## Modified Dataset link: https://docs.google.com/spreadsheets/d/1EBynKHCvIBvY0JWMXdwUTNg2KUyTziEh/edit?usp=drive_link&ouid=102250209040302755081&rtpof=true&sd=true
